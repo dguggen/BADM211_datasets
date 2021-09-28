@@ -1,0 +1,311 @@
+﻿Personal Income ,Credit Limit,Credit Rating,Number of Cards,Age,Education Years,Gender,Student,Married,Ethnicity, Credit Balance  
+16.28,1160,126,3,78,13,Male,Yes,Yes,African American,5.00
+44.47,3500,257,3,81,16,Female,No,No,African American,8.00
+88.83,4952,360,4,86,16,Female,No,Yes,Caucasian,15.00
+20.92,1233,128,3,47,18,Female,Yes,Yes,Asian,16.00
+33.02,3180,224,2,28,16,Male,No,Yes,African American,29.00
+34.54,3271,250,3,57,17,Female,No,Yes,Asian,47.00
+34.95,3327,253,3,54,14,Female,No,No,African American,50.00
+15.48,2762,215,3,60,18,Male,No,No,Asian,52.00
+26.53,2910,236,6,58,19,Female,No,Yes,Caucasian,52.00
+17.39,2748,228,3,32,14,Male,No,Yes,Caucasian,68.00
+50.7,3977,304,2,84,17,Female,No,No,African American,69.00
+45.12,3762,287,3,80,8,Male,No,Yes,Caucasian,70.00
+54.66,4116,314,2,70,8,Female,No,No,African American,75.00
+25.08,3096,236,2,27,15,Female,No,Yes,Caucasian,81.00
+17.7,2860,235,4,63,16,Female,No,No,Asian,89.00
+24.54,3206,243,2,62,12,Female,No,Yes,Caucasian,95.00
+22.57,1551,134,3,43,13,Female,Yes,Yes,Caucasian,98.00
+53.48,4263,317,1,83,15,Male,No,No,Caucasian,99.00
+21.24,3089,254,3,59,10,Female,No,No,Caucasian,108.00
+76.35,4697,344,4,60,18,Male,No,No,Asian,108.00
+58.06,4221,304,3,50,8,Male,No,No,African American,118.00
+41.19,3673,297,3,54,16,Female,No,Yes,Caucasian,121.00
+58.35,4411,326,2,85,16,Female,No,Yes,Caucasian,126.00
+28.47,3202,267,5,66,12,Male,No,Yes,Caucasian,132.00
+76.27,4779,367,4,65,14,Female,No,Yes,Caucasian,133.00
+14.13,2998,251,4,75,17,Male,No,No,Caucasian,133.00
+29.73,3536,270,2,52,15,Female,No,No,African American,133.00
+15.87,3085,217,1,39,13,Male,No,No,Caucasian,136.00
+68.46,4712,340,2,71,16,Male,No,Yes,Caucasian,136.00
+57.87,4171,321,5,67,12,Female,No,Yes,Caucasian,138.00
+20.94,3254,253,1,30,15,Female,No,No,Asian,145.00
+19.14,3291,269,2,75,13,Female,No,No,African American,148.00
+29.71,3351,262,5,71,14,Female,No,Yes,Asian,148.00
+26.07,3388,266,4,74,17,Female,No,Yes,African American,155.00
+41.42,2120,184,4,24,11,Female,Yes,No,Caucasian,156.00
+69.17,4668,341,2,34,11,Female,No,No,African American,156.00
+26.37,3235,268,5,78,11,Male,No,Yes,Asian,159.00
+27.37,3449,288,3,40,9,Female,No,Yes,Caucasian,162.00
+27.95,3557,263,1,35,13,Female,No,Yes,Asian,163.00
+31.34,3526,289,3,38,7,Female,No,No,Caucasian,172.00
+21.01,3402,261,2,68,17,Male,No,Yes,African American,182.00
+36.36,3613,278,4,35,9,Male,No,Yes,Asian,187.00
+36.47,3806,309,2,52,13,Male,No,No,African American,188.00
+55.05,4381,321,3,74,17,Male,No,Yes,Asian,188.00
+10.5,2923,232,3,25,18,Female,No,Yes,African American,191.00
+24.31,3409,270,2,23,7,Female,No,Yes,Caucasian,194.00
+10.63,1647,149,2,71,10,Female,Yes,Yes,Asian,195.00
+19.59,3211,265,4,59,14,Female,No,No,Asian,199.00
+21,3388,259,2,37,12,Female,No,No,African American,203.00
+80.62,5308,394,1,57,7,Female,No,Yes,Asian,204.00
+14.6,2955,260,5,37,9,Male,No,Yes,African American,204.00
+23.11,3476,257,2,50,15,Female,No,No,Caucasian,209.00
+12.03,3182,259,2,58,18,Female,No,Yes,Caucasian,210.00
+39.71,3969,301,2,27,20,Male,No,Yes,African American,211.00
+23.79,3615,263,2,70,14,Male,No,No,African American,216.00
+85.43,5182,402,6,60,12,Male,No,Yes,African American,218.00
+107.99,6033,449,4,64,14,Male,No,Yes,Caucasian,227.00
+51.35,4327,320,3,46,15,Male,No,No,African American,230.00
+41.03,4229,337,3,79,19,Female,No,Yes,Caucasian,246.00
+128.04,6982,518,2,78,11,Female,No,Yes,Caucasian,250.00
+18.15,3461,279,3,56,15,Male,No,Yes,African American,255.00
+27.23,3484,282,6,51,11,Male,No,No,Caucasian,265.00
+54.32,3063,248,3,59,8,Female,Yes,No,Caucasian,269.00
+16.48,3326,268,4,41,15,Male,No,No,Caucasian,271.00
+15.13,3300,266,5,66,13,Female,No,No,Caucasian,279.00
+36.93,4270,299,1,63,9,Female,No,Yes,Caucasian,283.00
+65.9,5140,370,1,49,17,Female,No,Yes,Caucasian,293.00
+59.86,4964,365,1,46,13,Female,No,Yes,Caucasian,295.00
+13.56,3261,279,5,37,19,Male,No,Yes,Asian,297.00
+21.15,3736,256,1,41,11,Male,No,No,Caucasian,298.00
+61.62,5140,374,1,71,9,Male,No,Yes,Caucasian,302.00
+39.15,4351,323,2,66,13,Male,No,Yes,Caucasian,308.00
+24.09,3665,287,4,56,13,Female,No,Yes,Caucasian,309.00
+27.79,3807,301,4,35,8,Female,No,Yes,African American,320.00
+55.88,4897,357,2,68,16,Male,No,Yes,Caucasian,331.00
+14.89,3606,283,2,34,11,Male,No,Yes,Caucasian,333.00
+10.35,3480,281,2,70,17,Male,No,Yes,Caucasian,333.00
+28.51,3933,287,4,56,14,Male,No,Yes,Asian,336.00
+13.65,3461,264,4,47,14,Male,No,Yes,Caucasian,344.00
+67.94,5184,383,4,63,12,Male,No,Yes,Asian,345.00
+89,5759,440,3,37,6,Female,No,No,Caucasian,345.00
+30.11,4336,339,1,81,18,Male,No,Yes,Caucasian,347.00
+24.89,3954,318,4,75,12,Male,No,Yes,Caucasian,357.00
+36.5,4378,339,3,69,15,Female,No,Yes,Asian,368.00
+19.25,3683,287,4,57,10,Male,No,No,African American,371.00
+36.3,2963,241,2,68,14,Female,Yes,No,African American,375.00
+57.1,4742,372,7,79,18,Female,No,Yes,Asian,379.00
+62.33,5228,377,3,83,15,Male,No,No,Caucasian,380.00
+53.22,4943,362,2,46,16,Female,No,Yes,Asian,382.00
+14.29,3274,282,9,64,9,Male,No,Yes,Caucasian,382.00
+22.38,3965,292,2,34,14,Female,No,Yes,Asian,384.00
+44.16,4763,351,2,66,13,Female,No,Yes,Asian,385.00
+110.97,6662,468,3,45,11,Female,No,Yes,Caucasian,391.00
+10.74,3746,280,2,44,17,Female,No,Yes,Caucasian,410.00
+64.03,5179,398,5,48,8,Male,No,Yes,African American,411.00
+12.07,3873,292,1,44,18,Female,No,Yes,Asian,413.00
+44.06,4970,352,1,79,11,Male,No,Yes,African American,414.00
+31.03,2863,223,2,66,17,Male,Yes,Yes,Asian,415.00
+23.35,2558,220,3,49,12,Female,Yes,No,Caucasian,419.00
+10.64,3584,294,5,69,16,Male,No,Yes,Asian,423.00
+41.87,4716,342,2,47,18,Male,No,No,Caucasian,425.00
+13.23,3922,299,2,77,17,Female,No,Yes,Caucasian,426.00
+31.81,4284,338,5,75,13,Female,No,Yes,Caucasian,429.00
+17.98,2433,190,3,70,16,Female,Yes,No,Caucasian,431.00
+44.98,4866,347,1,30,10,Female,No,No,Caucasian,436.00
+60.58,5149,388,5,38,15,Male,No,Yes,Asian,443.00
+30.42,4442,316,1,30,14,Female,No,No,African American,450.00
+28.32,4391,316,2,29,10,Female,No,No,Caucasian,453.00
+148.08,8157,599,2,83,13,Male,No,Yes,Caucasian,454.00
+57.34,5310,392,2,45,7,Female,No,No,Caucasian,456.00
+14.48,3907,296,3,43,16,Male,No,Yes,Caucasian,463.00
+10.59,4049,296,1,66,13,Female,No,Yes,Caucasian,465.00
+32.79,4534,333,2,44,16,Male,No,No,African American,467.00
+12.58,3976,291,2,48,16,Male,No,Yes,Caucasian,474.00
+13.36,3838,296,5,65,17,Male,No,No,African American,480.00
+51.53,5096,380,2,31,15,Male,No,Yes,Caucasian,481.00
+66.99,5614,430,3,47,14,Female,No,Yes,Caucasian,482.00
+10.85,3907,296,2,30,9,Male,No,No,Caucasian,485.00
+42.53,4986,369,2,37,11,Male,No,Yes,Asian,489.00
+23.67,4433,344,3,63,11,Male,No,No,Caucasian,503.00
+48.58,5145,389,3,71,13,Female,No,Yes,Asian,503.00
+40.44,4828,369,5,81,8,Female,No,No,African American,510.00
+46.1,5180,382,3,81,12,Male,No,Yes,African American,516.00
+134.18,7838,563,2,48,13,Female,No,No,Caucasian,526.00
+163.33,8732,636,3,50,14,Male,No,Yes,Caucasian,529.00
+11.8,3899,300,4,25,10,Female,No,No,Caucasian,531.00
+51.87,5294,390,4,81,17,Female,No,No,Caucasian,531.00
+41.53,5000,353,2,50,12,Male,No,Yes,Caucasian,531.00
+30.62,3293,251,1,68,16,Male,Yes,No,Caucasian,532.00
+35.86,4831,353,3,66,13,Female,No,Yes,Caucasian,534.00
+55.19,5352,385,4,50,17,Female,No,Yes,Caucasian,538.00
+53.4,5319,377,3,35,12,Female,No,No,African American,541.00
+76.78,5977,429,4,44,12,Male,No,Yes,Asian,548.00
+40.89,5013,379,3,46,13,Female,No,Yes,African American,549.00
+12.1,4100,307,3,32,13,Male,No,Yes,Caucasian,560.00
+25.38,4527,367,4,46,11,Male,No,Yes,Caucasian,570.00
+10.4,4159,310,3,43,7,Male,No,Yes,Asian,571.00
+27.51,4613,344,5,72,17,Male,No,Yes,Asian,573.00
+64.17,6127,433,1,80,10,Male,No,Yes,Caucasian,578.00
+15.56,4307,352,4,57,8,Male,No,Yes,African American,579.00
+104.59,7075,514,4,71,11,Male,No,No,Asian,580.00
+21.79,4632,355,1,50,17,Male,No,Yes,Caucasian,580.00
+63.93,5728,435,3,28,14,Female,No,Yes,African American,581.00
+104.48,7140,507,2,41,14,Male,No,Yes,African American,583.00
+29.4,4840,368,3,76,18,Female,No,Yes,Caucasian,588.00
+24.23,4756,351,2,64,15,Female,No,Yes,Caucasian,594.00
+23.99,4523,338,4,31,15,Male,No,No,Caucasian,601.00
+12,4160,320,4,28,14,Female,No,Yes,Caucasian,602.00
+91.88,6754,483,2,33,10,Male,No,Yes,Caucasian,605.00
+41.37,5303,377,1,45,14,Male,No,No,Caucasian,606.00
+44.21,5441,394,1,32,12,Male,No,Yes,Caucasian,607.00
+12.34,4471,344,3,79,12,Male,No,Yes,African American,611.00
+35.51,5198,364,2,35,20,Female,No,No,Asian,631.00
+48.22,5199,401,7,39,10,Male,No,Yes,Asian,633.00
+39.42,5245,383,2,44,19,Male,No,No,African American,637.00
+10.79,3878,321,8,29,13,Male,No,No,Caucasian,638.00
+19.53,4673,341,2,51,14,Male,No,No,Asian,642.00
+28,5107,380,1,55,10,Male,No,Yes,Caucasian,651.00
+42.36,5550,406,2,83,12,Female,No,Yes,Asian,653.00
+38.95,5222,370,4,76,13,Female,No,No,Caucasian,653.00
+42.47,3625,289,6,44,12,Female,Yes,No,Caucasian,654.00
+36.36,5183,376,3,49,15,Male,No,Yes,African American,654.00
+25.12,4776,378,4,29,12,Male,No,Yes,Caucasian,657.00
+33.21,5137,387,3,59,9,Male,No,No,African American,661.00
+115.12,7760,538,3,83,14,Female,No,No,African American,661.00
+22.94,4923,355,1,47,18,Female,No,Yes,Asian,663.00
+103.89,7416,549,3,84,17,Male,No,No,Asian,669.00
+14.09,4323,326,5,25,16,Female,No,Yes,African American,671.00
+34.91,5289,410,2,62,16,Female,No,Yes,Caucasian,681.00
+14.96,4640,332,2,33,6,Male,No,No,Asian,681.00
+15.74,4788,360,1,39,14,Male,No,Yes,Asian,689.00
+121.71,7818,584,4,50,6,Male,No,Yes,Caucasian,701.00
+19.64,4896,387,3,64,10,Female,No,No,African American,710.00
+26.16,5101,382,3,62,19,Female,No,No,African American,710.00
+24.92,5051,372,3,76,11,Female,No,Yes,African American,711.00
+53.57,5891,434,4,82,10,Female,No,No,Caucasian,712.00
+19.35,4941,366,1,33,19,Male,No,Yes,Caucasian,717.00
+73.33,6555,472,2,43,15,Female,No,No,Caucasian,721.00
+14.89,4745,339,3,58,12,Male,No,Yes,African American,724.00
+30.41,3690,299,2,25,15,Female,Yes,No,Asian,728.00
+151.95,9156,642,2,91,11,Female,No,Yes,African American,732.00
+17.77,5072,364,1,66,12,Female,No,Yes,Caucasian,732.00
+49.79,5758,410,4,40,8,Male,No,No,Caucasian,734.00
+15.85,4768,365,4,53,12,Female,No,No,Caucasian,745.00
+93.04,7398,517,1,67,12,Male,No,Yes,African American,749.00
+62.41,6457,455,2,71,11,Female,No,Yes,Caucasian,762.00
+87.63,7167,515,2,46,10,Female,No,No,African American,767.00
+69.25,6386,474,4,30,12,Female,No,Yes,Asian,768.00
+39.06,5565,410,4,48,18,Female,No,Yes,Caucasian,772.00
+58.93,6420,459,2,66,9,Female,No,Yes,African American,789.00
+113.77,6442,489,4,69,15,Male,Yes,Yes,Caucasian,790.00
+44.65,4431,320,2,49,15,Male,Yes,Yes,Caucasian,797.00
+29.57,5309,397,3,25,15,Male,No,No,Caucasian,799.00
+23.88,5384,398,2,73,16,Female,No,Yes,African American,802.00
+17.06,5110,371,3,55,15,Female,No,Yes,Caucasian,805.00
+83.95,7100,503,2,44,18,Male,No,No,Caucasian,806.00
+48.5,6040,456,3,47,16,Male,No,Yes,Caucasian,812.00
+55.37,6340,448,1,33,15,Male,No,Yes,Caucasian,815.00
+27.85,5619,418,2,78,15,Female,No,Yes,Caucasian,822.00
+27.83,5227,386,6,63,11,Male,No,Yes,Caucasian,823.00
+23.95,5343,383,2,40,18,Male,No,Yes,African American,829.00
+34.66,5835,452,3,77,15,Female,No,Yes,African American,835.00
+12.24,4865,381,5,67,11,Female,No,No,Caucasian,836.00
+19.78,3782,293,2,46,16,Female,Yes,No,Caucasian,840.00
+92.39,7685,534,2,75,18,Female,No,Yes,Asian,843.00
+23.38,5429,396,3,57,15,Female,No,Yes,Caucasian,844.00
+94.19,7576,527,2,44,16,Female,No,Yes,Caucasian,846.00
+101.79,8029,574,2,84,11,Male,No,Yes,Caucasian,849.00
+58.17,6617,460,1,56,12,Female,No,Yes,Caucasian,856.00
+34.14,5666,413,4,47,5,Female,No,Yes,Caucasian,863.00
+16.71,5274,387,3,42,16,Female,No,Yes,Asian,863.00
+23.79,3821,281,4,56,12,Female,Yes,Yes,African American,868.00
+71.41,7114,512,2,87,9,Male,No,No,Asian,872.00
+75.26,7010,494,3,34,18,Female,No,Yes,Caucasian,885.00
+11.19,5099,380,4,69,16,Female,No,No,African American,889.00
+49.93,6396,485,3,75,17,Female,No,Yes,Caucasian,890.00
+49.57,6384,448,1,28,9,Female,No,Yes,Asian,891.00
+43.48,4569,354,4,49,13,Male,Yes,Yes,African American,902.00
+106.03,6645,483,3,82,15,Female,Yes,Yes,Asian,903.00
+62.6,7056,481,1,84,11,Female,No,No,Caucasian,904.00
+82.71,7506,536,2,64,13,Female,No,Yes,Asian,905.00
+26.4,5640,398,3,58,15,Female,No,No,Asian,905.00
+21.55,5380,420,5,51,18,Male,No,Yes,Asian,907.00
+23.28,5443,407,4,49,13,Male,No,Yes,African American,912.00
+26.81,5611,411,4,55,16,Female,No,No,Caucasian,915.00
+32.86,5884,438,4,68,13,Male,No,No,Caucasian,926.00
+83.87,7667,554,2,83,11,Male,No,No,African American,930.00
+16.48,5435,388,2,26,16,Male,No,No,African American,937.00
+29.64,5833,433,3,29,15,Female,No,Yes,Asian,942.00
+16.1,5390,418,4,45,10,Female,No,Yes,Caucasian,945.00
+12.46,5395,392,3,65,14,Male,No,Yes,Caucasian,955.00
+16.3,5466,413,4,66,10,Male,No,Yes,Asian,957.00
+34.48,6090,442,3,36,14,Male,No,No,Caucasian,962.00
+148.92,9504,681,3,36,11,Female,No,No,Asian,964.00
+18.7,5524,415,5,64,7,Female,No,No,Asian,966.00
+30.55,5869,439,5,81,9,Female,No,No,African American,967.00
+37.35,6378,458,1,72,17,Female,No,No,Caucasian,968.00
+36.93,6257,445,1,24,14,Female,No,Yes,Asian,976.00
+49.17,6662,508,3,68,14,Female,No,No,Asian,984.00
+35.61,6135,466,4,40,12,Male,No,No,Caucasian,992.00
+77.38,7569,564,3,50,12,Female,No,Yes,Caucasian,997.00
+20.97,5673,413,5,44,16,Female,No,Yes,Caucasian,1000.00
+55.41,5354,383,2,37,16,Female,Yes,Yes,Caucasian,1003.00
+21.46,5829,427,4,80,12,Female,No,Yes,African American,1018.00
+56.26,5521,406,2,72,16,Female,Yes,Yes,Caucasian,1020.00
+20.19,5767,431,4,42,16,Male,No,Yes,African American,1023.00
+59.88,6906,527,6,78,15,Female,No,No,Caucasian,1032.00
+33.69,4891,369,1,52,16,Male,Yes,No,African American,1036.00
+46.01,6637,491,4,42,14,Male,No,Yes,Caucasian,1046.00
+42.08,6626,479,2,44,9,Male,No,No,Asian,1048.00
+73.91,7333,529,6,67,15,Female,No,Yes,Caucasian,1048.00
+36.51,6386,469,4,79,6,Female,No,Yes,Caucasian,1048.00
+146.18,9540,682,6,66,15,Male,No,No,Caucasian,1050.00
+180.38,9310,665,3,67,8,Female,Yes,Yes,Asian,1050.00
+20.41,4543,329,2,72,17,Male,Yes,No,Asian,1054.00
+69.94,7555,547,3,76,9,Male,No,Yes,Asian,1058.00
+15.08,5673,411,4,28,15,Female,No,Yes,Asian,1075.00
+43.68,6922,511,1,49,9,Male,No,Yes,Caucasian,1081.00
+49.5,6819,505,4,55,14,Male,No,Yes,Caucasian,1084.00
+63.81,7530,515,1,56,12,Male,No,Yes,Caucasian,1086.00
+33.66,6196,450,6,55,9,Female,No,No,Caucasian,1092.00
+30.01,6481,462,2,69,9,Female,No,Yes,Caucasian,1093.00
+27.33,6179,459,4,36,12,Female,No,Yes,Caucasian,1099.00
+58.78,7402,538,2,81,12,Female,No,Yes,Asian,1103.00
+149.32,10278,707,1,80,16,Male,No,No,African American,1107.00
+31.86,6375,469,3,25,16,Female,No,Yes,Caucasian,1120.00
+37.88,6827,482,2,80,13,Female,No,No,Caucasian,1129.00
+115.52,9272,656,2,69,14,Male,No,No,African American,1140.00
+52.18,7306,522,2,57,14,Male,No,No,Asian,1142.00
+80.18,8047,569,4,77,10,Male,No,No,Caucasian,1151.00
+113.66,7659,538,2,66,15,Male,Yes,Yes,African American,1155.00
+59.53,7518,543,3,52,9,Female,No,No,African American,1176.00
+160.23,10748,754,2,69,17,Male,No,No,Caucasian,1192.00
+71.68,8028,599,3,57,16,Male,No,Yes,Caucasian,1208.00
+10.84,4391,358,5,37,10,Female,Yes,Yes,Caucasian,1216.00
+98.52,8760,633,5,78,11,Female,No,No,African American,1230.00
+58.03,7499,560,5,67,11,Female,No,No,Caucasian,1237.00
+19.53,5043,376,2,64,16,Female,Yes,Yes,Asian,1241.00
+128.67,9824,685,3,67,16,Male,No,Yes,Asian,1243.00
+44.85,5765,437,3,53,13,Female,Yes,No,Asian,1246.00
+16.75,4706,353,6,48,14,Male,Yes,No,Asian,1255.00
+123.3,8376,610,2,89,17,Male,Yes,No,African American,1259.00
+61.07,7871,564,3,56,14,Male,No,Yes,Caucasian,1264.00
+63.53,8100,581,2,50,17,Female,No,Yes,Caucasian,1298.00
+83.85,8494,607,5,47,18,Male,No,No,Caucasian,1311.00
+69.66,8244,579,3,41,14,Male,No,Yes,African American,1329.00
+91.36,9113,626,1,47,17,Male,No,Yes,Asian,1341.00
+71.06,6819,491,3,41,19,Female,Yes,Yes,African American,1350.00
+24.82,5495,409,1,33,9,Male,Yes,No,Caucasian,1352.00
+72.95,8603,621,3,64,8,Female,No,No,Caucasian,1355.00
+125.48,10230,721,3,82,16,Male,No,Yes,Caucasian,1361.00
+14.31,5382,367,1,59,17,Male,Yes,No,Asian,1380.00
+113.83,9704,694,4,38,13,Female,No,Yes,Asian,1388.00
+135.12,10578,747,3,81,15,Female,No,Yes,Asian,1393.00
+26.43,5533,433,5,50,15,Female,Yes,Yes,Asian,1404.00
+180.68,11966,832,2,58,8,Female,No,Yes,African American,1405.00
+63.1,8117,589,4,30,14,Male,No,Yes,Caucasian,1407.00
+68.21,6784,499,5,40,16,Female,Yes,No,African American,1411.00
+39.83,6045,459,3,32,12,Female,Yes,Yes,African American,1425.00
+130.21,10088,730,7,39,19,Female,No,Yes,Caucasian,1426.00
+158.89,11589,805,1,62,17,Female,No,Yes,Caucasian,1448.00
+33.44,6207,451,4,44,9,Male,Yes,No,Caucasian,1549.00
+121.83,10673,750,3,54,16,Male,No,No,African American,1573.00
+68.71,7582,531,2,56,16,Male,Yes,No,Caucasian,1587.00
+107.84,10384,728,3,87,7,Male,No,No,African American,1597.00
+140.67,11200,817,7,46,9,Male,No,Yes,African American,1677.00
+124.29,9560,701,3,52,17,Female,Yes,No,Asian,1687.00
+152.3,12066,828,4,41,12,Female,No,Yes,Asian,1779.00
+186.63,13414,949,2,41,14,Female,No,Yes,African American,1809.00
+182.73,13913,982,4,98,17,Male,No,Yes,Caucasian,1999.00
